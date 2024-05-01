@@ -1,0 +1,5 @@
+3 cubes: red, blue, green
+
+12 red, 13 green, 14 blue
+
+look at each game, determine if any sets are impossible because red > 12, green > 13, or blue > 14
